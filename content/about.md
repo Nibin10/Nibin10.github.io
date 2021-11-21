@@ -6,9 +6,6 @@ aliases = ["about-us", "about-iqbalpb", "contact"]
 author = "Nibin Raj R"
 +++
 
-Hi, I'm **Nibin Raj R** 3rd year **B.Tech computer Engineering** Student and parallelly working as a **DevOps intern** at **Emvigo technologies**, Freelancing as a **WordPress Developer** and **Campus Community Manager** at **TinkerHub**. My background is like a mixed salad. I like making things, meeting new peoples, and Building Communities. I'm also a **SIH**(Smart India Hackathon) **Finalist** conducted by **MHRD** Indian Government.
+Hi, I'm **Nibin Raj R** 2nd year **B.Tech computer Engineering** Student 
 
-  ## My Mission
-  > I Learned Most of the Stuff from Communties, I'm Actively Looking to Contribute back
-
-Please Checkout [iqbalpb.com](https://iqbalpb.com) for more Details..
+Please Checkout [https://www.instagram.com/_ni_bi_n_/](https://www.instagram.com/_ni_bi_n_/) for more Details..
