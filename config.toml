@@ -112,8 +112,8 @@ weight = 3
 url = "https://twitter.com/NibinrajR"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "fa fa-linkedin"
+name = "Instagram"
+icon = "fab fa-instagram"
 weight = 4
 url = "https://www.instagram.com/_ni_bi_n_/"
 
