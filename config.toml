@@ -109,13 +109,13 @@ url = "https://github.com/Nibin10/"
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/"
+url = "https://twitter.com/NibinrajR"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/"
+url = "https://www.instagram.com/_ni_bi_n_/"
 
 [languages.en]
 languageName = ":uk:"
